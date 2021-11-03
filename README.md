@@ -1,5 +1,9 @@
 # data-structures
-implementing data structures from Cormen et al. (2009) with Python
+Esse repositório contém códigos que implementam:
+
+- Lista duplamente encadeada implementada sem ponteiros usando múltiplos arrays
+
+Implementing data structures from Cormen et al. (2009) with Python
 
 Reference:
 
