@@ -1,3 +1,6 @@
+'''
+multipleArrayList: implementando lista duplamente encadeada sem ponteiros com Python e múltiplos arrays
+'''
 from multipleArrayList import List
 
 lista = List()
