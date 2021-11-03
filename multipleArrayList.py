@@ -1,3 +1,6 @@
+'''
+Lista duplamente encadeada implementada sem ponteiros usando múltiplos arrays
+'''
 class List:
     def __init__(self):
         self.head = None
